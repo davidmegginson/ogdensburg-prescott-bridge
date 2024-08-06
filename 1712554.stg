@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.499444 44.720556 -1.41 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.466111 44.705833 8.59 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.455833 44.65 -37.37 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.4255 44.708667 -10.68 180
+OBJECT_STATIC ogdensburg-prescott-bridge.ac -75.4595 44.7353 71.982 118.5
