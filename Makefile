@@ -13,6 +13,9 @@ install: ${FILES}
 view: install
 	fgfs --timeofday=noon --aircraft=ufo --lat=44.7353 --lon=-75.4695 --altitude=500 --heading=90 --altitude=700
 
+view-dusk: install
+	fgfs --timeofday=dusk --aircraft=ufo --lat=44.7353 --lon=-75.4695 --altitude=500 --heading=90 --altitude=700
+
 view-night: install
 	fgfs --timeofday=midnight --aircraft=ufo --lat=44.7353 --lon=-75.4695 --altitude=500 --heading=90 --altitude=700
 
