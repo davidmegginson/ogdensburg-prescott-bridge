@@ -9,6 +9,8 @@ The bridge is a major VFR landmark along the busy general-aviation route between
 
 https://en.wikipedia.org/wiki/Ogdensburg%E2%80%93Prescott_International_Bridge
 
+Closest airport: [Ogdensburg International](https://ourairports.com/airports/KOGS/) (KOGS).
+
 
 ## UnLicense
 
